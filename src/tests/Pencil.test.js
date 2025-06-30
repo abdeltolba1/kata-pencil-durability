@@ -1,4 +1,4 @@
-import { Pencil } from "./Pencil";
+import { Pencil } from "../classes/Pencil";
 
 describe("Pencil", () => {
 	let pencil;
