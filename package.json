@@ -1,0 +1,18 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "TDD Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.27.7",
+    "@babel/preset-env": "^7.27.2",
+    "@types/jest": "^30.0.0",
+    "babel-jest": "^30.0.2",
+    "jest": "^30.0.3"
+  }
+}
